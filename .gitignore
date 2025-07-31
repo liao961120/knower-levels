@@ -1,0 +1,24 @@
+# Ignore files without extensions
+*
+!/**/
+!*.*
+
+# Files
+*.exe
+.DS_Store
+
+
+# Folders
+init/
+made/*.RDS
+made/*.pdf
+.Rproj.user/
+/docs/*
+
+!/docs/*.md
+!/docs/math.pdf
+!/docs/*.typ
+!/docs/*.svg
+!/docs/*.png
+
+/docs/test.*
